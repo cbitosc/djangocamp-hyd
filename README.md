@@ -3,7 +3,7 @@
 Dates - 7th October 2017
 
 # CONFERENCE
-October 7: A day of speeches and presentations from talented speakers.
+October 7: A day of speeches and presentations from expertised speakers.
 
 
 # WORKSHOPS/SPRINTS
